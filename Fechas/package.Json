@@ -1,0 +1,15 @@
+{
+  "name": "platziDate",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "date",
+    "nodejs"
+  ],
+  "author": "juan",
+  "license": "ISC",
+  "description": "libreria para manejar fechas en nodejs"
+}
