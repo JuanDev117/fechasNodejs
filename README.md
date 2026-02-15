@@ -64,6 +64,4 @@ Si tu archivo se llama `Grabación.mp3`, el script generará:
 * El archivo `.env` está incluido en el `.gitignore` para evitar que tu API Key se suba a GitHub.
 * Nunca pegues la llave directamente en el código fuente.
 
----
-
-**¿Te gustaría que le añada una sección sobre cómo manejar diferentes formatos de audio (wav, m4a, etc.) o está bien así de simple?**
+ 
