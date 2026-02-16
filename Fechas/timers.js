@@ -22,7 +22,7 @@ clearInterval (intervalId);
 }, 10000);
 
 
-clearTimeout (timeOutId);
+// clearTimeout (timeOutId);
 
 
 console.log (`hora actual ;`, new Date().toLocaleTimeString());
